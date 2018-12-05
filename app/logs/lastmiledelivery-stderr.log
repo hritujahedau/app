@@ -1,0 +1,1457 @@
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+
+Error: class uri 'gevent' invalid or not found: 
+
+[Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 135, in load_class
+    mod = import_module('.'.join(components))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 22, in <module>
+    raise RuntimeError("You need gevent installed to use this worker.")
+RuntimeError: You need gevent installed to use this worker.
+]
+
+[2018-08-01 17:30:20 +0000] [10750] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:30:20 +0000] [10750] [INFO] Listening at: http://0.0.0.0:2004 (10750)
+[2018-08-01 17:30:20 +0000] [10750] [INFO] Using worker: gevent
+[2018-08-01 17:30:20 +0000] [10755] [INFO] Booting worker with pid: 10755
+[2018-08-01 17:30:20 +0000] [10756] [INFO] Booting worker with pid: 10756
+[2018-08-01 17:30:20 +0000] [10757] [INFO] Booting worker with pid: 10757
+[2018-08-01 17:30:20 +0000] [10758] [INFO] Booting worker with pid: 10758
+[2018-08-01 17:30:20 +0000] [10755] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:20 +0000] [10755] [INFO] Worker exiting (pid: 10755)
+[2018-08-01 17:30:20 +0000] [10763] [INFO] Booting worker with pid: 10763
+[2018-08-01 17:30:20 +0000] [10756] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:20 +0000] [10756] [INFO] Worker exiting (pid: 10756)
+[2018-08-01 17:30:20 +0000] [10757] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:20 +0000] [10757] [INFO] Worker exiting (pid: 10757)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:30:20 +0000] [10758] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:20 +0000] [10758] [INFO] Worker exiting (pid: 10758)
+[2018-08-01 17:30:21 +0000] [10770] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:30:21 +0000] [10770] [INFO] Listening at: http://0.0.0.0:2004 (10770)
+[2018-08-01 17:30:21 +0000] [10770] [INFO] Using worker: gevent
+[2018-08-01 17:30:21 +0000] [10775] [INFO] Booting worker with pid: 10775
+[2018-08-01 17:30:21 +0000] [10776] [INFO] Booting worker with pid: 10776
+[2018-08-01 17:30:21 +0000] [10777] [INFO] Booting worker with pid: 10777
+[2018-08-01 17:30:21 +0000] [10778] [INFO] Booting worker with pid: 10778
+[2018-08-01 17:30:21 +0000] [10779] [INFO] Booting worker with pid: 10779
+[2018-08-01 17:30:21 +0000] [10775] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:21 +0000] [10775] [INFO] Worker exiting (pid: 10775)
+[2018-08-01 17:30:21 +0000] [10776] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:21 +0000] [10776] [INFO] Worker exiting (pid: 10776)
+[2018-08-01 17:30:21 +0000] [10777] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:21 +0000] [10777] [INFO] Worker exiting (pid: 10777)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:30:24 +0000] [10791] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:30:24 +0000] [10791] [INFO] Listening at: http://0.0.0.0:2004 (10791)
+[2018-08-01 17:30:24 +0000] [10791] [INFO] Using worker: gevent
+[2018-08-01 17:30:24 +0000] [10796] [INFO] Booting worker with pid: 10796
+[2018-08-01 17:30:24 +0000] [10797] [INFO] Booting worker with pid: 10797
+[2018-08-01 17:30:24 +0000] [10796] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:24 +0000] [10796] [INFO] Worker exiting (pid: 10796)
+[2018-08-01 17:30:24 +0000] [10797] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:24 +0000] [10797] [INFO] Worker exiting (pid: 10797)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:30:27 +0000] [10806] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:30:27 +0000] [10806] [INFO] Listening at: http://0.0.0.0:2004 (10806)
+[2018-08-01 17:30:27 +0000] [10806] [INFO] Using worker: gevent
+[2018-08-01 17:30:27 +0000] [10811] [INFO] Booting worker with pid: 10811
+[2018-08-01 17:30:27 +0000] [10812] [INFO] Booting worker with pid: 10812
+[2018-08-01 17:30:28 +0000] [10811] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:28 +0000] [10811] [INFO] Worker exiting (pid: 10811)
+[2018-08-01 17:30:28 +0000] [10812] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:30:28 +0000] [10812] [INFO] Worker exiting (pid: 10812)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:33:12 +0000] [10948] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:33:12 +0000] [10948] [INFO] Listening at: http://0.0.0.0:2004 (10948)
+[2018-08-01 17:33:12 +0000] [10948] [INFO] Using worker: gevent
+[2018-08-01 17:33:12 +0000] [10953] [INFO] Booting worker with pid: 10953
+[2018-08-01 17:33:12 +0000] [10954] [INFO] Booting worker with pid: 10954
+[2018-08-01 17:33:12 +0000] [10955] [INFO] Booting worker with pid: 10955
+[2018-08-01 17:33:12 +0000] [10956] [INFO] Booting worker with pid: 10956
+[2018-08-01 17:33:12 +0000] [10954] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:12 +0000] [10954] [INFO] Worker exiting (pid: 10954)
+[2018-08-01 17:33:12 +0000] [10953] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:12 +0000] [10953] [INFO] Worker exiting (pid: 10953)
+[2018-08-01 17:33:12 +0000] [10961] [INFO] Booting worker with pid: 10961
+[2018-08-01 17:33:12 +0000] [10955] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:12 +0000] [10955] [INFO] Worker exiting (pid: 10955)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:33:13 +0000] [10968] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:33:13 +0000] [10968] [INFO] Listening at: http://0.0.0.0:2004 (10968)
+[2018-08-01 17:33:13 +0000] [10968] [INFO] Using worker: gevent
+[2018-08-01 17:33:13 +0000] [10973] [INFO] Booting worker with pid: 10973
+[2018-08-01 17:33:13 +0000] [10974] [INFO] Booting worker with pid: 10974
+[2018-08-01 17:33:13 +0000] [10975] [INFO] Booting worker with pid: 10975
+[2018-08-01 17:33:13 +0000] [10973] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:13 +0000] [10973] [INFO] Worker exiting (pid: 10973)
+[2018-08-01 17:33:13 +0000] [10974] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:13 +0000] [10974] [INFO] Worker exiting (pid: 10974)
+[2018-08-01 17:33:13 +0000] [10975] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:13 +0000] [10975] [INFO] Worker exiting (pid: 10975)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:33:16 +0000] [10983] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:33:16 +0000] [10983] [INFO] Listening at: http://0.0.0.0:2004 (10983)
+[2018-08-01 17:33:16 +0000] [10983] [INFO] Using worker: gevent
+[2018-08-01 17:33:16 +0000] [10988] [INFO] Booting worker with pid: 10988
+[2018-08-01 17:33:16 +0000] [10989] [INFO] Booting worker with pid: 10989
+[2018-08-01 17:33:16 +0000] [10988] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:16 +0000] [10988] [INFO] Worker exiting (pid: 10988)
+[2018-08-01 17:33:16 +0000] [10992] [INFO] Booting worker with pid: 10992
+[2018-08-01 17:33:16 +0000] [10993] [INFO] Booting worker with pid: 10993
+[2018-08-01 17:33:16 +0000] [10989] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:16 +0000] [10989] [INFO] Worker exiting (pid: 10989)
+[2018-08-01 17:33:16 +0000] [10993] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:16 +0000] [10993] [INFO] Worker exiting (pid: 10993)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:33:19 +0000] [11004] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:33:19 +0000] [11004] [INFO] Listening at: http://0.0.0.0:2004 (11004)
+[2018-08-01 17:33:19 +0000] [11004] [INFO] Using worker: gevent
+[2018-08-01 17:33:19 +0000] [11009] [INFO] Booting worker with pid: 11009
+[2018-08-01 17:33:19 +0000] [11012] [INFO] Booting worker with pid: 11012
+[2018-08-01 17:33:19 +0000] [11009] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:19 +0000] [11009] [INFO] Worker exiting (pid: 11009)
+[2018-08-01 17:33:19 +0000] [11012] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:33:19 +0000] [11012] [INFO] Worker exiting (pid: 11012)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:43:54 +0000] [11675] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:43:54 +0000] [11675] [INFO] Listening at: http://0.0.0.0:2004 (11675)
+[2018-08-01 17:43:54 +0000] [11675] [INFO] Using worker: gevent
+[2018-08-01 17:43:54 +0000] [11680] [INFO] Booting worker with pid: 11680
+[2018-08-01 17:43:54 +0000] [11681] [INFO] Booting worker with pid: 11681
+[2018-08-01 17:43:54 +0000] [11680] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:54 +0000] [11680] [INFO] Worker exiting (pid: 11680)
+[2018-08-01 17:43:54 +0000] [11681] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:54 +0000] [11681] [INFO] Worker exiting (pid: 11681)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:43:55 +0000] [11686] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:43:55 +0000] [11686] [INFO] Listening at: http://0.0.0.0:2004 (11686)
+[2018-08-01 17:43:55 +0000] [11686] [INFO] Using worker: gevent
+[2018-08-01 17:43:55 +0000] [11691] [INFO] Booting worker with pid: 11691
+[2018-08-01 17:43:55 +0000] [11692] [INFO] Booting worker with pid: 11692
+[2018-08-01 17:43:55 +0000] [11691] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:55 +0000] [11691] [INFO] Worker exiting (pid: 11691)
+[2018-08-01 17:43:55 +0000] [11692] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:55 +0000] [11692] [INFO] Worker exiting (pid: 11692)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:43:57 +0000] [11697] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:43:57 +0000] [11697] [INFO] Listening at: http://0.0.0.0:2004 (11697)
+[2018-08-01 17:43:57 +0000] [11697] [INFO] Using worker: gevent
+[2018-08-01 17:43:57 +0000] [11702] [INFO] Booting worker with pid: 11702
+[2018-08-01 17:43:57 +0000] [11703] [INFO] Booting worker with pid: 11703
+[2018-08-01 17:43:57 +0000] [11704] [INFO] Booting worker with pid: 11704
+[2018-08-01 17:43:57 +0000] [11705] [INFO] Booting worker with pid: 11705
+[2018-08-01 17:43:57 +0000] [11706] [INFO] Booting worker with pid: 11706
+[2018-08-01 17:43:57 +0000] [11708] [INFO] Booting worker with pid: 11708
+[2018-08-01 17:43:57 +0000] [11710] [INFO] Booting worker with pid: 11710
+[2018-08-01 17:43:57 +0000] [11702] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:57 +0000] [11702] [INFO] Worker exiting (pid: 11702)
+[2018-08-01 17:43:58 +0000] [11705] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:58 +0000] [11705] [INFO] Worker exiting (pid: 11705)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:43:58 +0000] [11706] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:43:58 +0000] [11706] [INFO] Worker exiting (pid: 11706)
+[2018-08-01 17:44:02 +0000] [11728] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:44:02 +0000] [11728] [INFO] Listening at: http://0.0.0.0:2004 (11728)
+[2018-08-01 17:44:02 +0000] [11728] [INFO] Using worker: gevent
+[2018-08-01 17:44:02 +0000] [11733] [INFO] Booting worker with pid: 11733
+[2018-08-01 17:44:02 +0000] [11734] [INFO] Booting worker with pid: 11734
+[2018-08-01 17:44:02 +0000] [11735] [INFO] Booting worker with pid: 11735
+[2018-08-01 17:44:02 +0000] [11733] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:44:02 +0000] [11733] [INFO] Worker exiting (pid: 11733)
+[2018-08-01 17:44:02 +0000] [11738] [INFO] Booting worker with pid: 11738
+[2018-08-01 17:44:02 +0000] [11734] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:44:02 +0000] [11734] [INFO] Worker exiting (pid: 11734)
+[2018-08-01 17:44:02 +0000] [11735] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+  File "/home/shree/app/conf/service_app.py", line 3, in <module>
+    from service_apis.users import Users
+  File "/usr/local/lib/python2.7/dist-packages/gevent/builtins.py", line 96, in __import__
+    result = _import(*args, **kwargs)
+ImportError: No module named service_apis.users
+[2018-08-01 17:44:02 +0000] [11735] [INFO] Worker exiting (pid: 11735)
+Traceback (most recent call last):
+  File "/usr/local/bin/gunicorn", line 11, in <module>
+    load_entry_point('gunicorn==19.9.0', 'console_scripts', 'gunicorn')()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/wsgiapp.py", line 61, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 223, in run
+    super(Application, self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 232, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 345, in halt
+    self.stop()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 245, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2018-08-01 17:50:03 +0000] [12072] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:50:03 +0000] [12072] [INFO] Listening at: http://0.0.0.0:2004 (12072)
+[2018-08-01 17:50:03 +0000] [12072] [INFO] Using worker: gevent
+[2018-08-01 17:50:03 +0000] [12077] [INFO] Booting worker with pid: 12077
+[2018-08-01 17:50:03 +0000] [12078] [INFO] Booting worker with pid: 12078
+[2018-08-01 17:50:03 +0000] [12079] [INFO] Booting worker with pid: 12079
+[2018-08-01 17:50:03 +0000] [12080] [INFO] Booting worker with pid: 12080
+[2018-08-01 17:50:03 +0000] [12081] [INFO] Booting worker with pid: 12081
+[2018-08-01 17:50:03 +0000] [12084] [INFO] Booting worker with pid: 12084
+[2018-08-01 17:50:03 +0000] [12087] [INFO] Booting worker with pid: 12087
+[2018-08-01 17:50:03 +0000] [12092] [INFO] Booting worker with pid: 12092
+[2018-08-01 17:50:03 +0000] [12093] [INFO] Booting worker with pid: 12093
+[2018-08-01 17:52:29 +0000] [12072] [INFO] Handling signal: term
+[2018-08-01 12:22:29 +0000] [12077] [INFO] Worker exiting (pid: 12077)
+[2018-08-01 12:22:29 +0000] [12078] [INFO] Worker exiting (pid: 12078)
+[2018-08-01 12:22:29 +0000] [12080] [INFO] Worker exiting (pid: 12080)
+[2018-08-01 12:22:29 +0000] [12081] [INFO] Worker exiting (pid: 12081)
+[2018-08-01 12:22:29 +0000] [12079] [INFO] Worker exiting (pid: 12079)
+[2018-08-01 12:22:29 +0000] [12092] [INFO] Worker exiting (pid: 12092)
+[2018-08-01 12:22:29 +0000] [12084] [INFO] Worker exiting (pid: 12084)
+[2018-08-01 12:22:29 +0000] [12087] [INFO] Worker exiting (pid: 12087)
+[2018-08-01 12:22:29 +0000] [12093] [INFO] Worker exiting (pid: 12093)
+[2018-08-01 17:52:29 +0000] [12072] [INFO] Shutting down: Master
+[2018-08-01 17:52:31 +0000] [12303] [INFO] Starting gunicorn 19.9.0
+[2018-08-01 17:52:31 +0000] [12303] [INFO] Listening at: http://0.0.0.0:2004 (12303)
+[2018-08-01 17:52:31 +0000] [12303] [INFO] Using worker: gevent
+[2018-08-01 17:52:31 +0000] [12308] [INFO] Booting worker with pid: 12308
+[2018-08-01 17:52:31 +0000] [12309] [INFO] Booting worker with pid: 12309
+[2018-08-01 17:52:31 +0000] [12310] [INFO] Booting worker with pid: 12310
+[2018-08-01 17:52:31 +0000] [12313] [INFO] Booting worker with pid: 12313
+[2018-08-01 17:52:31 +0000] [12314] [INFO] Booting worker with pid: 12314
+[2018-08-01 17:52:31 +0000] [12319] [INFO] Booting worker with pid: 12319
+[2018-08-01 17:52:31 +0000] [12320] [INFO] Booting worker with pid: 12320
+[2018-08-01 17:52:31 +0000] [12323] [INFO] Booting worker with pid: 12323
+[2018-08-01 17:52:31 +0000] [12324] [INFO] Booting worker with pid: 12324
+[2018-08-01 17:52:39 +0000] [12303] [INFO] Handling signal: term
+[2018-08-01 12:22:39 +0000] [12308] [INFO] Worker exiting (pid: 12308)
+[2018-08-01 12:22:39 +0000] [12309] [INFO] Worker exiting (pid: 12309)
+[2018-08-01 12:22:39 +0000] [12310] [INFO] Worker exiting (pid: 12310)
+[2018-08-01 12:22:39 +0000] [12313] [INFO] Worker exiting (pid: 12313)
+[2018-08-01 12:22:40 +0000] [12314] [INFO] Worker exiting (pid: 12314)
+[2018-08-01 12:22:40 +0000] [12319] [INFO] Worker exiting (pid: 12319)
+[2018-08-01 12:22:40 +0000] [12320] [INFO] Worker exiting (pid: 12320)
+[2018-08-01 12:22:40 +0000] [12323] [INFO] Worker exiting (pid: 12323)
+[2018-08-01 12:22:40 +0000] [12324] [INFO] Worker exiting (pid: 12324)
+[2018-08-01 17:52:40 +0000] [12303] [INFO] Shutting down: Master

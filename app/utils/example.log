@@ -1,0 +1,16 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+2018-07-25 15:36:54,894 DEBUG This message should go to the log file root
+2018-07-25 15:36:54,894 INFO So should this root
+2018-07-25 15:36:54,894 WARNING And this, too root
+2018-07-25 15:38:51,735    DEBUG This message should go to the log file root
+2018-07-25 15:38:51,735     INFO So should this root
+2018-07-25 15:38:51,735  WARNING And this, too root
+2018-07-25 15:39:25,315 DEBUG    This message should go to the log file root
+2018-07-25 15:39:25,315 INFO     So should this root
+2018-07-25 15:39:25,315 WARNING  And this, too root
+Wed, 25 Jul 18 15:44:27 DEBUG    This message should go to the log file root
+Wed, 25 Jul 18 15:44:27 INFO     So should this root
+Wed, 25 Jul 18 15:44:27 WARNING  And this, too root
+Wed, 25 Jul 18 15:44:27 ERROR    pack my box with 5 dozen liquor jugs root
