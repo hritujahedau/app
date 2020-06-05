@@ -13,7 +13,7 @@ debtagshw==0.1
 decorator==3.4.0
 defer==1.0.6
 dirspec==13.10
-Django==1.11.14
+Django==1.11.29
 django-filter==1.1.0
 django-tastypie==0.14.1
 djangorestframework==3.8.2
